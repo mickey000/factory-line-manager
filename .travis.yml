@@ -7,3 +7,9 @@ node_js:
 branches:
   only:
     - master
+
+deploy:
+  provider: heroku
+  app: "factory-line-manager000"
+  api_key:
+    secure: "6d097ffb-4348-4864-90a1-ebc7bdaf44fc"
