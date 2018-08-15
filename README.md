@@ -1,3 +1,17 @@
+# Factory line manager
+[![Travis][build-badge]][build]
+[![Coveralls][coveralls-badge]][coveralls]
+
+Awesome factory line manager!
+
+[build-badge]: https://img.shields.io/travis/mickey000/factory_line_manager/master.png?style=flat-square
+[build]: https://travis-ci.org/mickey000/factory_line_manager
+
+[coveralls-badge]: https://img.shields.io/coveralls/mickey000/factory_line_manager/master.png?style=flat-square
+[coveralls]: https://coveralls.io/github/mickey000/factory_line_manager
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

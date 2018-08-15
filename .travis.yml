@@ -13,3 +13,7 @@ deploy:
   app: "factory-line-manager000"
   api_key:
     secure: "6d097ffb-4348-4864-90a1-ebc7bdaf44fc"
+
+after_success:
+  - cat ./coverage/lcov.info | ./node_modules/codecov.io/bin/codecov.io.js
+  - cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
