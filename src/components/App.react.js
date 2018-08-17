@@ -10,9 +10,9 @@ class App extends Component {
           <h1 className="app-title">Welcome to React</h1>
         </header>
         <p className="app-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          Simple example of how Create React App works (CI by Travis and Heroku).
           <br />
-          I need to know what is under the hood (how it works inside)
+          Add custom absolute path and folder structure. Next app will be done with yarn eject to add sass and have more control.
         </p>
       </div>
     );
