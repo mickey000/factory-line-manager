@@ -4,11 +4,11 @@
 
 Awesome factory line manager!
 
-[build-badge]: https://img.shields.io/travis/mickey000/factory_line_manager/master.png?style=flat-square
-[build]: https://travis-ci.org/mickey000/factory_line_manager
+[build-badge]: https://img.shields.io/travis/mickey000/factory-line-manager/master.png?style=flat-square
+[build]: https://travis-ci.org/mickey000/factory-line-manager
 
-[coveralls-badge]: https://img.shields.io/coveralls/mickey000/factory_line_manager/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/mickey000/factory_line_manager
+[coveralls-badge]: https://img.shields.io/coveralls/mickey000/factory-line-manager/master.png?style=flat-square
+[coveralls]: https://coveralls.io/github/mickey000/factory-line-manager
 
 ---
 
